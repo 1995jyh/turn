@@ -1,0 +1,5 @@
+import BaseLobbyContent from '@/components/lobby/BaseLobbyContent';
+
+export default function NonsenseLobbyPage() {
+    return <BaseLobbyContent />;
+}
